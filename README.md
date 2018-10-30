@@ -1,4 +1,4 @@
-This is the application to make the Student resume by gathering his information
+This is the application to make the Student resume by gathering his/her information
 
 # How to contribute?
 1) Clone this repo.
