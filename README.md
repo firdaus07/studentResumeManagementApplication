@@ -15,3 +15,6 @@ This is the application to make the Student resume by gathering his information
 2) Overide the values in this file
 
 3) `npm run dev` and you are good to go.
+
+Enjoy.. have fun..!!
+Happy coding.
